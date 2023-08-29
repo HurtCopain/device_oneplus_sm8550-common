@@ -74,7 +74,10 @@
         <item>com.oplus.camera</item>
         <item>org.lineageos.aperture</item>
     </string-array>
-    
+  
+    <!-- Boolean indicating whether the wifi chipset has dual frequency band support -->
+    <bool translatable="false" name="config_wifi_dual_band_support">true</bool>
+        
     <!-- Does the device have a notification led -->
     <bool name="config_hasNotificationLed">false</bool>
 

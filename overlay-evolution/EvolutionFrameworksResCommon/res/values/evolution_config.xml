@@ -65,6 +65,8 @@
         <item>org.telegram.messenger</item>
         <item>org.thunderdog.challegram</item>
         <item>us.zoom.videomeetings</item>
+        <item>com.microsoft.teams</item>
+        <item>tw.nekomimi.nekogram</item>
     </string-array>
 
     <!-- The list of package IDs that are allowed to skip camera high frame rate checks. -->

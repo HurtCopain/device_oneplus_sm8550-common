@@ -67,6 +67,12 @@
         <item>us.zoom.videomeetings</item>
     </string-array>
 
+    <!-- The list of package IDs that are allowed to skip camera high frame rate checks. -->
+    <string-array name="config_cameraHFRPrivAppList" translatable="false">
+        <item>com.oplus.camera</item>
+        <item>org.lineageos.aperture</item>
+    </string-array>
+    
     <!-- Does the device have a notification led -->
     <bool name="config_hasNotificationLed">false</bool>
 

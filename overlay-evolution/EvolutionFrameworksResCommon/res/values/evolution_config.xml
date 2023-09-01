@@ -59,21 +59,6 @@
         <item>restart_bootloader</item>
         <item>restart_fastboot</item>
     </string-array>
-
-    <!-- The list of package IDs that are not allowed to use aux cameras. -->
-    <string-array name="config_cameraAuxPackageExcludeList" translatable="false">
-        <item>org.telegram.messenger</item>
-        <item>org.thunderdog.challegram</item>
-        <item>us.zoom.videomeetings</item>
-        <item>com.microsoft.teams</item>
-        <item>tw.nekomimi.nekogram</item>
-    </string-array>
-
-    <!-- The list of package IDs that are allowed to skip camera high frame rate checks. -->
-    <string-array name="config_cameraHFRPrivAppList" translatable="false">
-        <item>com.oplus.camera</item>
-        <item>org.lineageos.aperture</item>
-    </string-array>
   
     <!-- Boolean indicating whether the wifi chipset has dual frequency band support -->
     <bool translatable="false" name="config_wifi_dual_band_support">true</bool>

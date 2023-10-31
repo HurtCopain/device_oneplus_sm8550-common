@@ -260,6 +260,7 @@ PRODUCT_PACKAGES += \
     init.qcom.usb.sh \
     init.qti.kernel.rc \
     init.target.rc \
+    init.lahaina.post_boot.sh \
     ueventd.oplus.rc \
     ueventd.qcom.rc
 
